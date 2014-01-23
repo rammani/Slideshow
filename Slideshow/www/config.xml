@@ -16,6 +16,5 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Ram 
     </author>
-    <gap:plugin name="com.phonegap.plugin.statusbar" />
-
+	<gap:plugin name="com.phonegap.plugins.barcodescanner" />
 </widget>
